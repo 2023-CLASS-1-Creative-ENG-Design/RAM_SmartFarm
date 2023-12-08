@@ -19,7 +19,8 @@ RAM = Random Access Memory, 무작위로 모인 사람들이 다 같이 힘을 �
 <br/><br/>
 
 ## 💻 어떻게 만들었나요?
-사용 언어 : ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+사용 언어<br/>
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 최대한 저희의 힘으로 만들어보고자 최대한 제공받은 아두이노 세트와 가지고 있던 부품만으로 제작을 하였고,<br/>
 토양 습도 센서, 워터 펌프와 같이 반드시 필요한 부품만 주문하였습니다.<br/>
