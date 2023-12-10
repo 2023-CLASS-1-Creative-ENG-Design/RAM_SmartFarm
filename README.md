@@ -35,7 +35,11 @@ RAM = Random Access Memory, 무작위로 모인 사람들이 다 같이 힘을 �
 위 통합 회로도를 기반으로 하여 팀원들이 다 같이 모여 아래 사진과 같이 아두이노 하드웨어 제작을 하였고,<br/>
 마지막 주에는 각 센서들을 테스트 및 보완하고 시연을 위한 틀을 완성하였습니다.
 
-![image11](https://github.com/2023-CLASS-1-Creative-ENG-Design/RAM_SmartFarm/assets/29522161/6454e26a-45d0-4c8d-9e4b-e7d4bf390f61)
+<img
+  src="https://github.com/2023-CLASS-1-Creative-ENG-Design/RAM_SmartFarm/assets/29522161/6454e26a-45d0-4c8d-9e4b-e7d4bf390f61"
+  width="756"
+  height="480"
+/>
 <br/><br/><br/>
 
 ## 📅 작업 일정
