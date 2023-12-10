@@ -28,6 +28,7 @@ RAM = Random Access Memory, 무작위로 모인 사람들이 다 같이 힘을 �
 우선 **TinkerCad**를 이용해 각각의 센서들에 대한 회로도를 작성하고 그에 맞는 개별 코드를 작성하었습니다.<br/>
 (각 회로도는 "회로 사진 모음" 폴더 참조)<br/>
 각 센서들의 설계가 완료되면 그것들을 한데 모아 전체 통합 회로도를 만들고 각 코드가 충돌하지 않게 수정하였습니다.<br/>
+(Arduino Code -> **Arduino SmartFarm** 참조)
 
 ![image10](https://github.com/2023-CLASS-1-Creative-ENG-Design/RAM_SmartFarm/assets/29522161/491edb7a-e852-4560-8131-f910d5cc7d64)
 <br/><br/>
