@@ -30,11 +30,13 @@ RAM = Random Access Memory, 무작위로 모인 사람들이 다 같이 힘을 �
 각 센서들의 설계가 완료되면 그것들을 한데 모아 전체 통합 회로도를 만들고 각 코드가 충돌하지 않게 수정하였습니다.<br/>
 
 ![image10](https://github.com/2023-CLASS-1-Creative-ENG-Design/RAM_SmartFarm/assets/29522161/491edb7a-e852-4560-8131-f910d5cc7d64)
+<br/><br/>
 
 위 통합 회로도를 기반으로 하여 팀원들이 다 같이 모여 아래 사진과 같이 아두이노 하드웨어 제작을 하였고,<br/>
 마지막 주에는 각 센서들을 테스트 및 보완하고 시연을 위한 틀을 완성하였습니다.
 
 ![image11](https://github.com/2023-CLASS-1-Creative-ENG-Design/RAM_SmartFarm/assets/29522161/6454e26a-45d0-4c8d-9e4b-e7d4bf390f61)
+<br/><br/><br/>
 
 ## 📅 작업 일정
 1주차 : 프로젝트 전체 설계 및 개발 계획서 작성 (개발 계획서 참조)<br/>
