@@ -48,7 +48,12 @@ RAM = Random Access Memory, 무작위로 모인 사람들이 다 같이 힘을 �
 
 ## 🙋 Contact
 
-![9팀_회의 사진2](https://github.com/2023-CLASS-1-Creative-ENG-Design/RAM_SmartFarm/assets/29522161/19223b5c-8ccc-48c2-b71c-707209c6bd86)
+<img
+  src="https://github.com/2023-CLASS-1-Creative-ENG-Design/RAM_SmartFarm/assets/29522161/19223b5c-8ccc-48c2-b71c-707209c6bd86"
+  width="729"
+  height="547"
+/>
+
 
 김도현(팀장) / 2017112719 / goat4628 (github)<br/>
 정언우 / 2023009655 / Eonuo3 (github)<br/>
