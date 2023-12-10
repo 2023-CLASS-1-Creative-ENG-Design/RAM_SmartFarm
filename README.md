@@ -37,8 +37,8 @@ RAM = Random Access Memory, 무작위로 모인 사람들이 다 같이 힘을 �
 
 <img
   src="https://github.com/2023-CLASS-1-Creative-ENG-Design/RAM_SmartFarm/assets/29522161/6454e26a-45d0-4c8d-9e4b-e7d4bf390f61"
-  width="756"
-  height="480"
+  width="500"
+  height="400"
 />
 <br/><br/><br/>
 
